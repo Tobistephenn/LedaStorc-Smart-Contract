@@ -13,6 +13,10 @@ npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
 This project is a decentralized crowdfunding application
 
+Ledastorc is a reliable and transparent aid distribution system, especially in times of crisis and displacement. It is a platform that helps validate ideas and causes as studies have shown that 42% of valuable ideas falter due to a lack of validation and support. And funding accessibility remains a significant barrier to advancing humanitarian causes.
+
+It creates a secure and transparent platform for contributions, not only facilitating funding but also fostering trust among donors and recipients. Additionally, it leverages cryptocurrency enthusiasts' interest in impactful projects bringing new resources and innovation to the table.
+
 Features:
 1. Users can create proposals on the platform
 2. The chairperson assigns level 1 and level 2 statuses to users
